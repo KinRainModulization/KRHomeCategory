@@ -1,9 +1,9 @@
 Pod::Spec.new do |s|
 s.name         = "KRHomeCategory"
 s.version      = "0.0.1"
-s.summary      = "Category by home view controller"
+s.summary      = "KRHomeCategory"
 s.description  = <<-DESC
-KRHomeCategory
+Category by home view controller
 DESC
 
 s.homepage     = "https://github.com/KinRainModulization/KRHomeCategory.git"
